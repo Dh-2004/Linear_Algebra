@@ -1,5 +1,5 @@
 import unittest
-from ALA_20.Assignment.Assignment_1_20_Dhanush import Vec
+from Assignment.Assignment_1_33 import Vec
 
 
 class TestVector(unittest.TestCase):
